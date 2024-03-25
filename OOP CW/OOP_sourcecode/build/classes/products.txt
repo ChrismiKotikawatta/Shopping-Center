@@ -1,0 +1,4 @@
+Electronics,A1000,TV,25,299.99,Samsung,12
+Electronics,A203,Dishwasher,2,500.0,Bosh,36
+Clothing,B001,Shirt,180,39.99,S,White
+Clothing,B201,Leggings,1,22.9,M,Black

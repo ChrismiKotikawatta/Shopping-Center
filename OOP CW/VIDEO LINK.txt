@@ -1,0 +1,12 @@
+VIDEO – (5 marks for the quality of your video)
+
+You are requested to record a video of the system you implemented.
+You need to run the project and show all the functionalities you implemented in the console menu and in the GUI.
+Add at least 5 products during the demonstration.
+You should also record your voice explaining what you are demonstrating.
+
+Note that if the video is not submitted, your mark will be capped to 30%.
+
+
+*** I think you need to record the video, convert it to a .mp4 and upload it in youtube as an unlisted video.
+    That link should be sent.
